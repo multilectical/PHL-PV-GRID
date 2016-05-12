@@ -21,24 +21,37 @@
 
 ## Knowledge gathered
 
-_Links from the City:_
+__Links from the City:__
+
 http://www.phila.gov/green/guidebookBenefitsIncentives.html
 
 http://www.phila.gov/green/payForSolar.html
 
-_ L&amp;I / Code shit:_
+__ L&amp;I / Code shit:__
+
 http://www.phila.gov/green/guidebookCodesRegulations.html
 
-_Philly Solar Electricians:_
-http://www.solar-states.com/
+__Philly Solar Electricians:__
 
-_Suppliers:_
+__Solar States__
+http://www.solar-states.com
+
+__Sumintra__
+P.O. Box 7966 Philadelphia PA 19101
+Telephone 267 241 7975
+Fax 215 382 2345
+www.sumintra.com
+
+__Suppliers:__
+
 http://sunelec.com/
 
-_Articles and Blogs:_
+__Articles and Blogs:__
+
 _Two DIY Handy West Philly Men:_
 http://www.gridphilly.com/grid-magazine/2012/3/20/solar-diy-two-philadelphia-handy-men-take-solar-into-their-o.html?rq=solar
 
-_General Online Resources:_
-[Home Power Magazine](http://www.homepower.com/solar-electricity)
-[Build it Solar](http://www.builditsolar.com/) - this is the best for DIY Solar!!! :)
+__General Online Resources:__
+
+* [Home Power Magazine](http://www.homepower.com/solar-electricity)
+* [Build it Solar](http://www.builditsolar.com/) - best placefor DIY Solar!!! :)
