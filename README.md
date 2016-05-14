@@ -1,6 +1,6 @@
 # PHL-PV-GRID
 
-# #Proposal (pending)
+## Proposal (pending)
 
 >   proposal: grid intertie solar on our roofs 
 >
@@ -23,35 +23,54 @@
 
 __Links from the City:__
 
-http://www.phila.gov/green/guidebookBenefitsIncentives.html
+* http://www.phila.gov/green/
 
-http://www.phila.gov/green/payForSolar.html
+__ L &amp; I / Code shit:__
 
-__ L&amp;I / Code shit:__
+* http://www.phila.gov/green/guidebookCodesRegulations.html
+* http://www.phila.gov/green/PDFs/LIPermits_8101110.pdf
+* http://www.phila.gov/green/PDFs/Streamlined%20Solar%20Standards.pdf
 
-http://www.phila.gov/green/guidebookCodesRegulations.html
+__Philly Solar Companies:__
 
-__Philly Solar Electricians:__
+* __Solar States__
+[www.solar-states.com](http://www.solar-states.com)
 
-__Solar States__
-http://www.solar-states.com
-
-__Sumintra__
+* __Sumintra__
 P.O. Box 7966 Philadelphia PA 19101
 Telephone 267 241 7975
 Fax 215 382 2345
-www.sumintra.com
+[www.sumintra.com](http://www.sumintra.com)
+
+* __Solar Terrain__
+[www.solarphiladelphia.org](http://www.solarphiladelphia.org/)
+
+__Organizations__
+
+* __Northwest Philadelphia Solar Coop__ Starting up Mt Airy based solar coop.
 
 __Suppliers:__
 
-http://sunelec.com/
+* Sunelec: [sunelec.com](http://sunelec.com/)
 
 __Articles and Blogs:__
 
-_Two DIY Handy West Philly Men:_
+* _Two DIY Handy West Philly Men:_
 http://www.gridphilly.com/grid-magazine/2012/3/20/solar-diy-two-philadelphia-handy-men-take-solar-into-their-o.html?rq=solar
+* _Philly Solar Schools:_http://www.philly.com/philly/blogs/home_and_design/Philadelphia-Solar-Schools-Initiative-brings-solar-power-to-20-Philly-schools.html
+* https://kevskewl.wordpress.com/2015/01/17/peco-and-solar-in-philly-intro/
+* _PECO not paying?:_ http://articles.philly.com/2013-05-27/business/39540170_1_ben-armstrong-customers-peco-energy-co
+* http://articles.philly.com/2016-03-25/business/71786984_1_ben-armstrong-peco-north-philadelphia
+* http://articles.philly.com/2016-04-24/business/72564021_1_green-activists-cathy-engel-menendez-peco-energy-co
+* http://www.philly.com/philly/business/energy/20160511_Solar_activists_step_up_demands_on_Peco_Energy.html
+* http://articles.philly.com/2015-03-14/business/60090425_1_solarcity-corp-southeastern-pennsylvania-power-purchase-agreement 
+* http://articles.philly.com/2015-03-14/business/60090425_1_solarcity-corp-southeastern-pennsylvania-power-purchase-agreement
+
+Tagged solar on philly.com [http://articles.philly.com/keyword/solar-power](http://articles.philly.com/keyword/solar-power)
+ 
 
 __General Online Resources:__
 
 * [Home Power Magazine](http://www.homepower.com/solar-electricity)
 * [Build it Solar](http://www.builditsolar.com/) - best placefor DIY Solar!!! :)
+* [Clean Air Council](http://cleanair.org/www.cleanair.org/solarphilly)
