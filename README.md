@@ -25,7 +25,7 @@ __Links from the City:__
 
 * http://www.phila.gov/green/
 
-__ L &amp; I / Code shit:__
+__L &amp; I / Code shit:__
 
 * http://www.phila.gov/green/guidebookCodesRegulations.html
 * http://www.phila.gov/green/PDFs/LIPermits_8101110.pdf
@@ -45,13 +45,18 @@ Fax 215 382 2345
 * __Solar Terrain__
 [www.solarphiladelphia.org](http://www.solarphiladelphia.org/)
 
-__Organizations__
-
+__Phila Initiatives__
+* __Serenity Solar__ https://www.crowdrise.com/serenitysoular
+* 
 * __Northwest Philadelphia Solar Coop__ Starting up Mt Airy based solar coop.
 
 __Suppliers:__
 
 * Sunelec: [sunelec.com](http://sunelec.com/)
+
+__Funding__
+
+* __Revolv__ crowdfunding for solar co-ops [https://re-volv.org/](https://re-volv.org/)
 
 __Articles and Blogs:__
 
@@ -65,6 +70,7 @@ http://www.gridphilly.com/grid-magazine/2012/3/20/solar-diy-two-philadelphia-han
 * http://www.philly.com/philly/business/energy/20160511_Solar_activists_step_up_demands_on_Peco_Energy.html
 * http://articles.philly.com/2015-03-14/business/60090425_1_solarcity-corp-southeastern-pennsylvania-power-purchase-agreement 
 * http://articles.philly.com/2015-03-14/business/60090425_1_solarcity-corp-southeastern-pennsylvania-power-purchase-agreement
+*  http://www.renewableenergyworld.com/ugc/blogs/2016/03/community-drivensol.html
 
 Tagged solar on philly.com [http://articles.philly.com/keyword/solar-power](http://articles.philly.com/keyword/solar-power)
  
@@ -74,3 +80,4 @@ __General Online Resources:__
 * [Home Power Magazine](http://www.homepower.com/solar-electricity)
 * [Build it Solar](http://www.builditsolar.com/) - best placefor DIY Solar!!! :)
 * [Clean Air Council](http://cleanair.org/www.cleanair.org/solarphilly)
+* [Solar Forum List](https://mysolarpowered.wordpress.com/2013/05/24/10-best-solar-power-forums/)
