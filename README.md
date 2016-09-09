@@ -59,7 +59,7 @@ __Funding__
 
 __Tools__
 
-*__Solar Design Tool__ possibly useful for submitting diagrams (costs $50/month) [http://get.solardesigntool.com/](http://get.solardesigntool.com/)
+* __Solar Design Tool__ possibly useful for submitting diagrams (costs $50/month) [http://get.solardesigntool.com/](http://get.solardesigntool.com/)
 
 __Articles and Blogs:__
 
