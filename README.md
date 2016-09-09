@@ -25,7 +25,7 @@ __Links from the City:__
 
 * http://www.phila.gov/green/
 
-__L &amp; I / Code shit:__
+__L &amp; I / Code:__
 
 * http://www.phila.gov/green/guidebookCodesRegulations.html
 * http://www.phila.gov/green/PDFs/LIPermits_8101110.pdf
@@ -46,8 +46,7 @@ Fax 215 382 2345
 [www.solarphiladelphia.org](http://www.solarphiladelphia.org/)
 
 __Phila Initiatives__
-* __Serenity Solar__ https://www.crowdrise.com/serenitysoular
-* 
+* __Serenity Solar__ https://www.crowdrise.com/serenitysoular 
 * __Northwest Philadelphia Solar Coop__ Starting up Mt Airy based solar coop.
 
 __Suppliers:__
@@ -57,6 +56,10 @@ __Suppliers:__
 __Funding__
 
 * __Revolv__ crowdfunding for solar co-ops [https://re-volv.org/](https://re-volv.org/)
+
+__Tools__
+
+*__Solar Design Tool__ possibly useful for submitting diagrams (costs $50/month) [http://get.solardesigntool.com/](http://get.solardesigntool.com/)
 
 __Articles and Blogs:__
 
