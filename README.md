@@ -47,7 +47,7 @@ Fax 215 382 2345
 
 __Phila Initiatives__
 * __Serenity Solar__ https://www.crowdrise.com/serenitysoular 
-* __Northwest Philadelphia Solar Coop__ Starting up Mt Airy based solar coop.
+* __Northwest Philadelphia Solar Coop__ Starting up Mt Airy based solar coop.http://nwphillysolarcoop.com
 
 __Suppliers:__
 
@@ -63,17 +63,20 @@ __Tools__
 
 __Articles and Blogs:__
 
+* 
 * _Two DIY Handy West Philly Men:_
 http://www.gridphilly.com/grid-magazine/2012/3/20/solar-diy-two-philadelphia-handy-men-take-solar-into-their-o.html?rq=solar
 * _Philly Solar Schools:_http://www.philly.com/philly/blogs/home_and_design/Philadelphia-Solar-Schools-Initiative-brings-solar-power-to-20-Philly-schools.html
 * https://kevskewl.wordpress.com/2015/01/17/peco-and-solar-in-philly-intro/
 * _PECO not paying?:_ http://articles.philly.com/2013-05-27/business/39540170_1_ben-armstrong-customers-peco-energy-co
+* http://www.philly.com/philly/business/A-dark-cloud-over-solars-sunny-prospects.html
 * http://articles.philly.com/2016-03-25/business/71786984_1_ben-armstrong-peco-north-philadelphia
 * http://articles.philly.com/2016-04-24/business/72564021_1_green-activists-cathy-engel-menendez-peco-energy-co
 * http://www.philly.com/philly/business/energy/20160511_Solar_activists_step_up_demands_on_Peco_Energy.html
 * http://articles.philly.com/2015-03-14/business/60090425_1_solarcity-corp-southeastern-pennsylvania-power-purchase-agreement 
 * http://articles.philly.com/2015-03-14/business/60090425_1_solarcity-corp-southeastern-pennsylvania-power-purchase-agreement
-*  http://www.renewableenergyworld.com/ugc/blogs/2016/03/community-drivensol.html
+* http://www.renewableenergyworld.com/ugc/blogs/2016/03/community-drivensol.html
+* _Brooklyn Microgrid_ : https://www.nytimes.com/2017/03/13/business/energy-environment/brooklyn-solar-grid-energy-trading.html?ref=energy-environment&_r=1
 
 Tagged solar on philly.com [http://articles.philly.com/keyword/solar-power](http://articles.philly.com/keyword/solar-power)
  
